@@ -10,6 +10,7 @@
  */
 
 class OPML {
+	var $file3;
 	var $file2;
 	var $avb;
 	var $file;
